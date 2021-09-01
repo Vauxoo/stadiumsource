@@ -14,3 +14,7 @@
 	path = server-tools
 	url = git@github.com:Vauxoo/server-tools.git
 	branch = 14.0
+[submodule "sh-tools"]
+	path = sh-tools
+	url = git@git.vauxoo.com:vauxoo/sh-tools.git
+	branch = 14.0
