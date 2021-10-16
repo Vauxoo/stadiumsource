@@ -1,1 +1,1 @@
-# Stadiumsource.
+# Stadiumsource
