@@ -1,0 +1,8 @@
+[submodule "stadiumsource"]
+	path = stadiumsource
+	url = git@git.vauxoo.com:vauxoo/stadiumsource.git
+	branch = 18.0
+[submodule "costarica"]
+	path = costarica
+	url = git@git.vauxoo.com:vauxoo/costarica.git
+	branch = 18.0
